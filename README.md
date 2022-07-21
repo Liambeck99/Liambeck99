@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm @Liambeck99
-Im currently a student studying a **MEng in Computer Science** at the **University of Leeds**  !!!
+Im a **First Class Graduate MEng. & BSc Computer Science Graduate**, having graduated from the **Univerity of Leeds** in July 2022 !!!
 
 <!---
 Liambeck99/Liambeck99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
