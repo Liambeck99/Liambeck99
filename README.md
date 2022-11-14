@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm @Liambeck99
-Im a **First Class Graduate MEng. & BSc Computer Science Graduate**, having graduated from the **Univerity of Leeds** in July 2022 !!!
+Im a **First Class MEng. & BSc Computer Science Graduate**, having graduated from the **Univerity of Leeds** in July 2022 !!!
 
 Currently working as a **Graduate Trainee** at **NHS Digital** :hospital: ! 
 
